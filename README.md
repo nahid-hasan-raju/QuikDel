@@ -7,7 +7,6 @@ This repository contains the full simulation codebase for **QuikDel**, a distrib
 
 > **Submitted paper:** "QuikDel: A Scalable Hierarchical Multi-agent System for Urban Delivery Using Q-Learning"  
 > *IEEE Access, 2024*  
-> Robert J. Kilgore, Md Nahid Hasan, Yusuf Ozdemir, Ashman Mehra, Archana Mathur, Vaskar Raychoudhury, Snehanshu Saha
 
 ---
 
@@ -269,16 +268,7 @@ Path sharing reduces total travel distance by up to **25%** (Chicago, 1:15 ratio
 
 If you use QuikDel or QCense in your research, please cite:
 
-```bibtex
-@article{kilgore2024quikdel,
-  title     = {QuikDel: A Scalable Hierarchical Multi-agent System for Urban Delivery Using Q-Learning},
-  author    = {Kilgore, Robert J. and Hasan, Md Nahid and Ozdemir, Yusuf and Mehra, Ashman
-               and Mathur, Archana and Raychoudhury, Vaskar and Saha, Snehanshu},
-  journal   = {IEEE Access},
-  year      = {2024},
-  doi       = {10.1109/ACCESS.2024.0429000}
-}
-```
+
 
 ---
 
