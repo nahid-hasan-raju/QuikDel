@@ -5,7 +5,7 @@
 
 This repository contains the full simulation codebase for **QuikDel**, a distributed, hierarchical multi-agent delivery routing system that uses Q-learning to optimize last-mile urban delivery. QuikDel is evaluated across three U.S. cities — Columbus, Philadelphia, and Chicago — and achieves up to a **25% reduction in total delivery distance** compared to a point-to-point baseline while handling over **13,866 delivery requests per hour**.
 
-> **Paper:** "QuikDel: A Scalable Hierarchical Multi-agent System for Urban Delivery Using Q-Learning"  
+> **Submitted paper:** "QuikDel: A Scalable Hierarchical Multi-agent System for Urban Delivery Using Q-Learning"  
 > *IEEE Access, 2024*  
 > Robert J. Kilgore, Md Nahid Hasan, Yusuf Ozdemir, Ashman Mehra, Archana Mathur, Vaskar Raychoudhury, Snehanshu Saha
 
