@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-% [![Paper](https://img.shields.io/badge/paper-IEEE%20Access-orange.svg)](https://doi.org/10.1109/ACCESS.2024.0429000)
 
 This repository contains the full simulation codebase for **QuikDel**, a distributed, hierarchical multi-agent delivery routing system that uses Q-learning to optimize last-mile urban delivery. QuikDel is evaluated across three U.S. cities — Columbus, Philadelphia, and Chicago — and achieves up to a **25% reduction in total delivery distance** compared to a point-to-point baseline while handling over **13,866 delivery requests per hour**.
 
