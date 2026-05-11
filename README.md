@@ -45,6 +45,7 @@ QuikDel/
 │   ├── 03_Q_Table_Generation.ipynb            # Train Q-tables for all agents
 │   ├── 04_Simulation.ipynb                    # Run QuikDel + baseline simulations
 │   └── 05_Results_Analysis.ipynb             # Aggregate and visualize results
+│   └── 06_QuikDel_Baselines_GNN_ORTools.ipynb  # Aggregate and visualize results
 │
 ├── data/
 │   └── sample/                                # Tiny sample data for quick testing
@@ -98,8 +99,15 @@ The simulation pipeline runs sequentially across five notebooks:
 ┌───────────────────────────────────▼─────────────────────────────────────────┐
 │  Step 5: Results Analysis  (Notebook 05)                                    │
 │  ─ Input:  Result JSON files                                                │
-│  ─ Output: Summary tables, distance/time plots, Γ_ps threshold plots       │
+│  ─ Output: Summary tables, distance/time plots, Γ_ps threshold plots        │
 └─────────────────────────────────────────────────────────────────────────────┘
+                                    │
+┌───────────────────────────────────▼─────────────────────────────────────────┐
+│  Step 6: Baseline Comaprison  (Notebook 06)                                 │
+│  ─ Input:  Result JSON files                                                │
+│  ─ Output: Summary tables, json files of baseline comparison                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
 ```
 
 ---
